@@ -4,7 +4,7 @@ A：git config --global http.sslVerify false
 
 
 
-Q:![image-20230125131902197](assets/image-20230125131902197.png)
+Q:![image-20230125131902197](https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230125131902197.png)
 
 A:原因：本地拉取项目后，仓库文件被修改，导致两方面数据不一致
 
